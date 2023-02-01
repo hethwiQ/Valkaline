@@ -1,3 +1,3 @@
 # Valkaline
 BrowserDataHacker(Beta)
-Yes, As then name suggests, this is a Browser data hacker.
+Yes, As the name suggests, this is a Browser data hacker.
