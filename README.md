@@ -40,6 +40,3 @@ Installation of `Valkaline` is dead-simple, just download [the release for your 
 ### Run
 
 You can double-click to run
-
-######## Contributors
->This project is heavily inspired from moonD4rk's 'HackBrowserData'
