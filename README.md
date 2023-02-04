@@ -1,5 +1,5 @@
 # Valkaline
-BrowserDataHacker(Beta)
+Browser-Data-Hacker
 Yes, As the name suggests, this is a Browser data hacker.
 `Valkaline` is an tool that could help you decrypt data ( password|bookmark|cookie|history|credit card|download|localStorage|extension ) from the browser. It supports the most popular browsers on the market and runs on Windows.
 
